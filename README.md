@@ -6,7 +6,7 @@ Content :-
 What is Blockchain?
 - Blockchain is a distributed immutable ledger, which is completely transparent.
 
-immutable --> means --> which we cannot change/modify.
+immutable --> means --> which we cannot change/modify.<br>
 ledger --> means --> Place where all transactions are stored.
 
 When a transaction is done using the blockchain technology, then all the data regarding the transaction get stored in a block which is mined by a miner in the network connected to all the nodes through blockchain.
